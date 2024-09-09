@@ -1,4 +1,4 @@
-<h1>Senior Full Stack Engineer</h1>
+<h1>Full Stack Engineer</h1>
 
 ## About Me
 Experienced Full Stack Engineer with over a decade of agile methodology experience, driven by optimization and motivation
@@ -137,4 +137,5 @@ Experienced Full Stack Engineer with over a decade of agile methodology experien
 
 ## Statistics
 <img width="640" src="https://streak-stats.demolab.com/?user=tj1003&theme=react" alt=""/>
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
