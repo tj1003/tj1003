@@ -127,15 +127,3 @@ Experienced Full Stack Engineer with over a decade of agile methodology experien
   </tr>
 </table>  
 </div>
-
-## Activities
-<div>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tj1003&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tj1003&theme=solarized&utcOffset=8)
-  <div>
-
-## Statistics
-<img width="640" src="https://streak-stats.demolab.com/?user=tj1003&theme=react" alt=""/>
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
